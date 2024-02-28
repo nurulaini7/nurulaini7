@@ -1,5 +1,7 @@
 ### Hi  👋 My Name is Nurul Aini
 
+I'm a student at University of Sumatera Utara, majoring in Information Technology
+
 <!--
 **nurulaini7/nurulaini7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
