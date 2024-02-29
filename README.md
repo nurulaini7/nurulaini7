@@ -1,4 +1,4 @@
-### Hi  👋 My Name is Nurul Aini
+<h1 align="center"> Hello  👋 My Name is Nurul Aini</h1>
 
 I'm a student at University of Sumatera Utara, majoring in Information Technology
 
