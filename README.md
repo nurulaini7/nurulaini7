@@ -5,7 +5,7 @@ I'm a student at University of Sumatera Utara, majoring in Information Technolog
 
 * 🌍 I'm based in Medan, Indonesia
 * 🧠 I'm learning python
-* 📈 And i'm interest in Data Analyst
+* 📈 And i'm interest in Data Analyst, Data Scientist, AI and Machine Learning Engineer
 
 ### Skills
 
